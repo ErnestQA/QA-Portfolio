@@ -1,6 +1,6 @@
 # Bug Report: Highlight Duplicate Wording 
 
-## Metadata
+**Website:** (https://www.costacruises.com)
 - **Environment:** Windows 10, Chrome  
 - **Date:** 2025-08-19  
 - **Severity:** Medium  
