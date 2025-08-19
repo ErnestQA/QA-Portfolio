@@ -1,5 +1,12 @@
 # Bug Report: Highlight Duplicate Wording (Windows Chrome)
 
+## Metadata
+- **Environment:** Windows 10, Chrome  
+- **Date:** 2025-08-19  
+- **Severity:** Medium  
+- **Priority:** Medium  
+- **Frequency:** Always
+
 ## Overview
 - **Platform:** Windows 10 / Windows 11
 - **Browser:** Chrome
@@ -45,6 +52,13 @@ Cruises with prices as low as €236.54 are shown in the search results, despite
 
 ## Attachments
 - ![Price filter issue](./Screenshots/cost_issuse.png)
+
+---
+
+## Type of Bug
+Functional
+
+
 
   
 
