@@ -1,4 +1,4 @@
-# Bug Report: Highlight Duplicate Wording (Windows Chrome)
+# Bug Report: Highlight Duplicate Wording 
 
 ## Metadata
 - **Environment:** Windows 10, Chrome  
@@ -6,12 +6,6 @@
 - **Severity:** Medium  
 - **Priority:** Medium  
 - **Frequency:** Always
-
-## Overview
-- **Platform:** Windows 10 / Windows 11
-- **Browser:** Chrome
-- **Module / Page:** Cruise Search
-- **Issue Summary:** Price filter shows results below the selected minimum value.
 
 ---
 
