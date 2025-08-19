@@ -1,11 +1,11 @@
 # Bug Report: Highlight Duplicate Wording 
 
 **Website:** [Costa Cruises homepage](https://www.costacruises.com)
-- **Environment:** Windows 10, Chrome  
-- **Date:** 2025-08-19  
-- **Severity:** Medium  
-- **Priority:** Medium  
-- **Frequency:** Always
+**Environment:** Windows 10, Chrome  
+**Date:** 2025-08-19  
+**Severity:** Medium  
+**Priority:** Medium  
+**Frequency:** Always
 
 ---
 
