@@ -29,7 +29,7 @@ The website accepts `24:01` without any warning or error.
 ---
 
 ## Screenshot
-![Time input bug](./screenshots/time_input_bug.png)
+![Time input bug](./Screenshots/time_input_bug.png)
 
 > Save your screenshot in a folder called `screenshots` inside your repo.  
 
