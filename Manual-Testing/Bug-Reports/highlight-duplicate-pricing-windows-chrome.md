@@ -44,7 +44,7 @@ Cruises with prices as low as €236.54 are shown in the search results, despite
 ---
 
 ## Attachments
-- ![Price filter issue](./Screenshots/Highlight Duplicate Wording.png)
+- ![Price filter issue](./Screenshots/cost_issuse.png)
 
-- 
+  
 
