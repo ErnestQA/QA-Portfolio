@@ -1,6 +1,6 @@
 # Bug Report: Phone Number Field Accepts Invalid Input (000000000)
 
-**Website:** [https://military.pl/](https://military.pl/)  
+**Website:** [Military](https://military.pl/](https://military.pl/)  
 **Environment:**  
 - OS: Windows 10  
 - Browser: Chrome 126  
