@@ -2,9 +2,9 @@
 
 **Website:** [Military](https://military.pl/00)  
 **Environment:**
-- OS: Windows 10    
-- Browser: Chrome 126  
-- Date: 2025-08-25  
+OS: Windows 10    
+Browser: Chrome 126  
+Date: 2025-08-25  
 
 **Severity:** Medium  
 **Priority:** Medium  
