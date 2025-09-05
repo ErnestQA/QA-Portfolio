@@ -6,9 +6,8 @@ from tests.test_data import VALID_USER
 def test_login(driver):
     page = BasePage(driver)
     page.open()
-    page.accept_cookies()           # закрываем popup
-    page.click_signup_login()       # переходим на страницу логина
-
+    page.accept_cookies()           # close popup
+    page.click_signup_login()       # go to login page
     login = LoginPage(driver)
     login.enter_email(VALID_USER["email"])
     login.enter_password(VALID_USER["password"])
