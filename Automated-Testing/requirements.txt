@@ -1,6 +1,0 @@
-pytest
-selenium
-Webdriver-manager
-
-
-
