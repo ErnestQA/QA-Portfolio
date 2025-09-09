@@ -19,4 +19,8 @@ class LoginPage:
 
     def click_login_button(self):
         btn = self.wait.until(EC.element_to_be_clickable(LoginPageLocators.LOGIN_BUTTON))
+<<<<<<< HEAD
         btn.click()
+=======
+        btn.click()
+>>>>>>> e22afb8 (Fix logout test and add click_logout_button method)

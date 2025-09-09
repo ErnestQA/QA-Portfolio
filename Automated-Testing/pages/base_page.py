@@ -25,6 +25,14 @@ class BasePage:
             EC.element_to_be_clickable((By.XPATH, "//a[contains(text(), 'Login')]"))
         )
         login_link.click()
+<<<<<<< HEAD
+=======
+
+    def click_logout_button(self):
+        logout_btn = self.wait.until(
+        EC.element_to_be_clickable((By.XPATH, "//a[contains(text(), 'Logout')]")))
+        logout_btn.click()
+>>>>>>> e22afb8 (Fix logout test and add click_logout_button method)
 
 
 
