@@ -15,23 +15,20 @@ Authentication
 
 The authentication request retrieves a token and stores it in a collection variable for subsequent requests.
 
-
-
+![Authentication](screenshots/Authentication.png)
 
 Booking CRUD Operations
 Create Booking
 
 Creates a new booking and stores its ID in a collection variable for use in subsequent requests.
 
-
-
+![Create Booking](screenshots/Create%20Booking.png)
 
 Read Booking
 
 Retrieves booking details and validates the response structure, field values, and data types.
 
-
-
+![Get Booking](screenshots/Get%20Booking.png)
 
 Update Booking
 
@@ -41,15 +38,13 @@ Delete Booking
 
 Deletes a booking and verifies that the resource is no longer available.
 
-
-
+![Delete Booking](screenshots/Delete%20Booking.png)
 
 Test Results
 
 The collection includes assertions for HTTP status codes, response fields, data types, and expected values.
 
-
-
+![Authentication](screenshots/Authentication.png)
 
 Notes
 
